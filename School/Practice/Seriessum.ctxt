@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Seriessum
+comment1.params=
+comment1.target=Seriessum()
+comment2.params=n
+comment2.target=int\ factorial(int)
+comment3.params=p\ n
+comment3.target=double\ term(int,\ int)
+comment4.params=
+comment4.target=void\ accept()
+comment5.params=
+comment5.target=void\ displaysum()
+comment6.params=
+comment6.target=double\ calsum()
+comment7.params=
+comment7.target=void\ main()
+numComments=8

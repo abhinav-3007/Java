@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scores
+comment1.params=
+comment1.target=Scores()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ calc()
+comment4.params=
+comment4.target=void\ disp()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

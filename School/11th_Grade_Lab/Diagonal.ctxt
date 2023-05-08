@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Diagonal
+comment1.params=
+comment1.target=Diagonal()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ diagonalPrint()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

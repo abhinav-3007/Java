@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ShapeInput
+comment1.params=inputLength\ inputBreadth
+comment1.target=ShapeInput(int,\ int)
+comment2.params=
+comment2.target=void\ identifyShape()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

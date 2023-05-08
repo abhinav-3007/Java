@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Latin
+comment1.params=
+comment1.target=Latin()
+comment2.params=n
+comment2.target=void\ input(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

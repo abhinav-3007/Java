@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student58
+comment1.params=roll\ n\ std\ sec
+comment1.target=void\ input(int,\ java.lang.String,\ java.lang.String,\ char)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

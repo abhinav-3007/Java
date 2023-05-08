@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Compound
+comment1.params=account\ principal\ rateInput\ timeInput
+comment1.target=Compound(int,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=double\ interest()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

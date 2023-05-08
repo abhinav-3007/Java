@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyString
+comment1.params=
+comment1.target=MyString()
+comment2.params=index
+comment2.target=int\ code(int)
+comment3.params=
+comment3.target=void\ readString()
+comment4.params=
+comment4.target=void\ word()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

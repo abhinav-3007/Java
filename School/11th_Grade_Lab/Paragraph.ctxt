@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Paragraph
+comment1.params=sentCount\ text
+comment1.target=Paragraph(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ wordCount()
+comment3.params=
+comment3.target=void\ dispFrequency()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

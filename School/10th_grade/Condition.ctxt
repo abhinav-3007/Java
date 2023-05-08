@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Condition
+comment1.params=a\ b\ c\ d
+comment1.target=int\ satis(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3
